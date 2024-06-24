@@ -3,7 +3,7 @@ package org.ss.orchestre.couplagefort;
 public class Batterie {
 
     public void afficher() {
-        System.out.println("Je suis une batterie...");
+        System.out.println("Je suis une batteriee...");
     }
 
     public void jouer() {
